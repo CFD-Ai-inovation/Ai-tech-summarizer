@@ -1,0 +1,1 @@
+summarizer = pipeline("summarization")
